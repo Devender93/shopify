@@ -29,7 +29,7 @@
       }
     },
     "main": {
-      "type": "text-with-map",
+      "type": "three-columns-text",
       "settings": {
       }
     },
