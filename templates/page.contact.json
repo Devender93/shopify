@@ -9,32 +9,10 @@
             "heading": "Contact Us",
             "heading_size": "h1"
           }
-        },
-        "1649159551cef20131-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "1649159551cef20131-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "1649159551cef20131-0",
-        "1649159551cef20131-1",
-        "1649159551cef20131-2"
+        "1649159551cef20131-0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/parallax-10.jpg",
@@ -52,6 +30,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
