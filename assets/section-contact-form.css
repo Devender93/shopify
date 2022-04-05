@@ -41,3 +41,12 @@
 .grecaptcha-badge {
   visibility: hidden;
 }
+
+
+/*custom css*/
+.contact {
+    background: #ffffff;
+    box-shadow: 0 0 10px 0 #e7e7e7;
+    padding: 50px;
+    margin: 65px auto 20px;
+}
