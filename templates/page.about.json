@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main": {
+      "type": "text-with-map",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
