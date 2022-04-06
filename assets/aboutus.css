@@ -53,3 +53,10 @@ ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info p
 .rte {
     margin: 0 !important;
 }
+#shopify-section-template--15516910485653__164922938730a0f0e8 .multicolumn {
+    background: url(https://cdn.shopify.com/s/files/1/0613/7793/7557/files/parallax-8.jpg?v=1649229153) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 80px 0 10px;
+}
