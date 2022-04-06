@@ -75,5 +75,5 @@ p{
 
 /*home2 css*/
 #Slider-template--15519613321365__164924865588047a66 .slideshow__controls.slider-buttons.no-js-hidden {
-    display: none;
+    display: none !important;
 }
