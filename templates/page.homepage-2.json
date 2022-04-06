@@ -45,7 +45,7 @@
         "1649248655e1dd4647-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
