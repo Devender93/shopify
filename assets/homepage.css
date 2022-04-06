@@ -77,3 +77,6 @@ p{
 #Slide-template--15519613321365__164924865588047a66-1 .slideshow__text {
     max-width: 80%;
 }
+.slideshow__controls.slider-buttons.no-js-hidden {
+    border: none;
+}
