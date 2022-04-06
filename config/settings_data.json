@@ -133,11 +133,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-2": {
+          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Phone Support",
+              "subtext": "<p>24 HOURS A DAY<\/p><p>+ 01 345 647 745<\/p>"
             }
           },
           "footer-0": {
@@ -147,18 +147,18 @@
               "menu": "main-menu"
             }
           },
-          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc": {
+          "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Phone Support",
-              "subtext": "<p>24 HOURS A DAY<\/p><p>+ 01 345 647 745<\/p>"
+              "heading": "Our mission",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-2",
+          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc",
           "footer-0",
-          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc"
+          "footer-2"
         ],
         "settings": {
           "color_scheme": "inverse",
