@@ -142,12 +142,61 @@
         "padding_top": 0,
         "padding_bottom": 64
       }
+    },
+    "16492289781f93826a": {
+      "type": "image-banner",
+      "blocks": {
+        "1649228978a59f5786-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "At vero eos et accusamus et iusto odio.",
+            "heading_size": "h1"
+          }
+        },
+        "1649228978a59f5786-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1649228978a59f5786-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1649228978a59f5786-0",
+        "1649228978a59f5786-1",
+        "1649228978a59f5786-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/parallax-8.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "164916612964e8559b",
     "main",
     "164916612656832954",
-    "1649227455ff13b57f"
+    "1649227455ff13b57f",
+    "16492289781f93826a"
   ]
 }

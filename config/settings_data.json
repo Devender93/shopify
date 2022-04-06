@@ -9,7 +9,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#c19b77",
+    "colors_background_2": "rgba(0,0,0,0)",
     "gradient_background_2": "",
     "type_header_font": "raleway_n4",
     "heading_scale": 100,
