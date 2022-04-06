@@ -41,3 +41,10 @@ ul#Slider-template--15516910485653__1649227455ff13b57f li:before {
     background: #00000014;
     z-index: 1;
 }
+ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info h3 {
+    font-size: 18px;
+    color: white;
+}
+ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info p {
+    color: white;
+}
