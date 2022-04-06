@@ -7,3 +7,7 @@ li#Slide-template--15516910485653__164916612656832954-1 {
     width: 50%;
     max-width: 50%;
 }
+li#Slide-template--15516910485653__164916612656832954-3, li#Slide-template--15516910485653__164916612656832954-3 {
+    width: calc(25% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+    max-width: calc(25% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+}
