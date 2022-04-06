@@ -521,3 +521,6 @@ noscript .localization-selector.link {
 .footer__content-bottom {
     padding-top: 5px;
 }
+.footer__content-top {
+    padding-bottom: 65px;
+}
