@@ -133,44 +133,44 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
           "footer-2": {
             "type": "text",
             "settings": {
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "main-menu"
+            }
+          },
+          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc": {
+            "type": "text",
+            "settings": {
+              "heading": "Phone Support",
+              "subtext": "<p>24 HOURS A DAY<\/p><p>+ 01 345 647 745<\/p>"
+            }
           }
         },
         "block_order": [
+          "footer-2",
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc"
         ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Subscribe to our email",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
-          "payment_enable": true,
+          "payment_enable": false,
           "margin_top": 0,
-          "padding_top": 36,
-          "padding_bottom": 36
+          "padding_top": 64,
+          "padding_bottom": 64
         }
       },
       "main-password-header": {
