@@ -232,29 +232,38 @@
     "1649242894a489ae84": {
       "type": "image-with-text",
       "blocks": {
+        "37be33bb-252a-43d0-ae9b-def4bf01d942": {
+          "type": "caption",
+          "settings": {
+            "caption": "HOTEL LUXURY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "16492428948726d6dc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Receptions",
             "heading_size": "h1"
           }
         },
         "16492428948726d6dc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Phasellus enim libero, blandit.<\/p>",
             "text_style": "body"
           }
         },
         "16492428948726d6dc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Read More",
             "button_link": ""
           }
         }
       },
       "block_order": [
+        "37be33bb-252a-43d0-ae9b-def4bf01d942",
         "16492428948726d6dc-0",
         "16492428948726d6dc-1",
         "16492428948726d6dc-2"
