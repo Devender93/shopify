@@ -281,6 +281,20 @@
         "padding_top": 0,
         "padding_bottom": 64
       }
+    },
+    "16492431536134dc0f": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/parallax-8.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -289,6 +303,7 @@
     "16492405776a8cadc7",
     "16492420467723fbeb",
     "1649242284e6923489",
-    "1649242894a489ae84"
+    "1649242894a489ae84",
+    "16492431536134dc0f"
   ]
 }
