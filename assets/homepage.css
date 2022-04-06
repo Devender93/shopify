@@ -9,7 +9,7 @@ header li {
     margin: 0 15px;
 }
 .section-template--15516270723221__1649239715db27071b-padding .image-with-text__media,
-section-template--15516270723221__16492405776a8cadc7-padding .image-with-text__media{
+.section-template--15516270723221__16492405776a8cadc7-padding .image-with-text__media{
     border: none;
 }
 .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
@@ -30,6 +30,7 @@ section-template--15516270723221__16492405776a8cadc7-padding .image-with-text__m
     opacity: 1 !important;
 }
 .section-template--15516270723221__16492405776a8cadc7-padding {
-    padding: 0px;
-    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    max-width: 100%;
 }
