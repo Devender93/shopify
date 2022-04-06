@@ -149,8 +149,8 @@
         "1649229387586982e6-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "15",
+            "text": "<p>SUITES<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -158,8 +158,8 @@
         "1649229387586982e6-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "100",
+            "text": "<p>ROOMS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -167,8 +167,17 @@
         "1649229387586982e6-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "47",
+            "text": "<p>EMPLOYEES<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1f7da4d3-94a3-486d-9e78-ffbcf4aa0f52": {
+          "type": "column",
+          "settings": {
+            "title": "10",
+            "text": "<p>SERVICES<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,7 +186,8 @@
       "block_order": [
         "1649229387586982e6-0",
         "1649229387586982e6-1",
-        "1649229387586982e6-2"
+        "1649229387586982e6-2",
+        "1f7da4d3-94a3-486d-9e78-ffbcf4aa0f52"
       ],
       "settings": {
         "title": "Doing the right thing, at the right time.",
