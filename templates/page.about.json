@@ -159,23 +159,11 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
-        },
-        "1649228978a59f5786-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "1649228978a59f5786-0",
-        "1649228978a59f5786-1",
-        "1649228978a59f5786-2"
+        "1649228978a59f5786-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/parallax-8.jpg",
@@ -190,6 +178,16 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "16492293241addef32": {
+      "type": "page",
+      "settings": {
+        "page": "contact",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -197,6 +195,7 @@
     "main",
     "164916612656832954",
     "1649227455ff13b57f",
-    "16492289781f93826a"
+    "16492289781f93826a",
+    "16492293241addef32"
   ]
 }
