@@ -77,6 +77,12 @@ p{
 #Slider-template--15519613321365__164924865588047a66 .slideshow__text {
     max-width: 80%;
 }
-.slideshow__controls.slider-buttons.no-js-hidden {
+#shopify-section-template--15519613321365__164924865588047a66 .slideshow__controls.slider-buttons.no-js-hidden {
     border: none;
+    position: absolute;
+    bottom: 0;
+    background: #ffffff94;
+    opacity: 1;
+    left: 0;
+    right: 0;
 }
