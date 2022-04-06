@@ -69,3 +69,11 @@ p{
 #Banner-template--15519594414229__164924801225a7195e h2{
     color: white;
 }
+
+
+
+
+/*home2 css*/
+.slideshow__controls.slider-buttons.no-js-hidden {
+    display: none;
+}
