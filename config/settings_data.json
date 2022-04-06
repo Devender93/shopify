@@ -161,7 +161,7 @@
           "0d6c4677-b230-4c0b-a4e4-fa6ef8965cfc"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our email",
           "show_social": true,
