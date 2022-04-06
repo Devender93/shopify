@@ -93,3 +93,13 @@ ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__info p
 ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__image-wrapper--third-width {
     width: 20%;
 }
+ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
+    font-size: 11px;
+    line-height: 11px;
+    border-radius: 0px;
+    border: 0px solid #ffffff;
+    background-color: #1c1c1c;
+    padding: 8px 12px;
+    color: #ffffff;
+    margin: 0px;
+}
