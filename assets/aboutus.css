@@ -79,3 +79,6 @@ ul#Slider-template--15516910485653__164922938730a0f0e8 .multicolumn-card__info {
 ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card.content-container {
     display: flex;
 }
+ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__info {
+    padding: 0;
+}
