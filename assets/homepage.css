@@ -20,14 +20,12 @@ header li {
 .section-template--15516270723221__1649239715db27071b-padding p {
     font-size: 14px;
 }
-.section-template--15516270723221__1649239715db27071b-padding a.button.button--primary {
-    letter-spacing: 2px;
+.button {
+    opacity: 1 !important;
+      letter-spacing: 2px;
     line-height: 11px;
     font-size: 11px;
     text-transform: uppercase;
-}
-.button {
-    opacity: 1 !important;
 }
 .section-template--15516270723221__16492405776a8cadc7-padding {
     padding: 0px;
