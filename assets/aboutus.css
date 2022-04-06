@@ -22,3 +22,21 @@ ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
     right: 0px;
     padding: 0px 15px;
 }
+ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__image-wrapper {
+    margin: 0;
+}
+ul#Slider-template--15516910485653__1649227455ff13b57f li {
+    position: relative;
+    margin: 0 15px;
+    width: 30%;
+}
+ul#Slider-template--15516910485653__1649227455ff13b57f li:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #00000014;
+    z-index: 1;
+}
