@@ -27,5 +27,5 @@ header li {
     opacity: 1;
 }
 .button {
-    opacity: 1;
+    opacity: 1 !important;
 }
