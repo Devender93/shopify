@@ -175,12 +175,66 @@
         "padding_top": 64,
         "padding_bottom": 64
       }
+    },
+    "1649242284e6923489": {
+      "type": "image-with-text",
+      "blocks": {
+        "a20c1fcf-8a59-48b3-bb29-e86aa855e3e4": {
+          "type": "caption",
+          "settings": {
+            "caption": "FINE FOOD",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "1649242284994f0b06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Restaurant",
+            "heading_size": "h1"
+          }
+        },
+        "1649242284994f0b06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Phasellus enim libero, blandit.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1649242284994f0b06-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a20c1fcf-8a59-48b3-bb29-e86aa855e3e4",
+        "1649242284994f0b06-0",
+        "1649242284994f0b06-1",
+        "1649242284994f0b06-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img-16.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "1649239715db27071b",
     "16492405776a8cadc7",
-    "16492420467723fbeb"
+    "16492420467723fbeb",
+    "1649242284e6923489"
   ]
 }
