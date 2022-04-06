@@ -108,11 +108,11 @@ ul#Slider-template--15519613321365__1649249541f13b7c13 .multicolumn-card__info {
     bottom: 50%;
     transform: translate(-50%, 50%);
 }
-ul#Slider-template--15519613321365__1649249541f13b7c13 li {
+/*ul#Slider-template--15519613321365__1649249541f13b7c13 li {
     position: relative;
 }
 ul#Slider-template--15519613321365__1649249541f13b7c13 li:before {
-	content: "";
+content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -120,4 +120,4 @@ ul#Slider-template--15519613321365__1649249541f13b7c13 li:before {
     bottom: 0;
     background: #ffffff73;
     z-index: 1;
-}
+}*/
