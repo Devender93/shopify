@@ -16,7 +16,8 @@ header li {
     line-height: 60px;
     margin: 20px 0 35px;
 }
-.section-template--15516270723221__1649239715db27071b-padding p {
+.section-template--15516270723221__1649239715db27071b-padding p,
+#ImageWithText--template--15516270723221__16492405776a8cadc7 p{
     font-size: 14px;
 }
 .button {
