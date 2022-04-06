@@ -58,3 +58,6 @@ p{
 #shopify-section-template--15516270723221__1649242894a489ae84{
     background: #f9f9f9;
 }
+.video-section__media.deferred-media {
+    border: none;
+}
