@@ -73,6 +73,6 @@ ul#Slider-template--15516910485653__164922938730a0f0e8 p {
     color: white;
 }
 ul#Slider-template--15516910485653__164922938730a0f0e8 .multicolumn-card__info {
-    text-align: left;
-    padding: 0px;
+    padding: 0;
+    margin-left: -120px;
 }
