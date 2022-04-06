@@ -54,55 +54,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "LUXURY HOTEL & BEST RESORT",
-            "text_style": "subtitle"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Relax in our Resort",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Book Now",
-            "button_link_1": "",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text",
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/parallax-10.jpg",
-        "image_2": "shopify:\/\/shop_images\/img-11.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "1649239715db27071b": {
       "type": "image-with-text",
       "blocks": {
@@ -353,7 +304,6 @@
   },
   "order": [
     "164924865588047a66",
-    "image_banner",
     "1649239715db27071b",
     "16492405776a8cadc7",
     "16492420467723fbeb",
