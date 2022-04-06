@@ -13,5 +13,5 @@ li#Slide-template--15516910485653__164916612656832954-2, li#Slide-template--1551
 }
 .multicolumn-card__info p {
     font-size: 13px;
-    margin-bottom: 15px;
+    margin-bottom: 15px !important;
 }
