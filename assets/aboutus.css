@@ -4,8 +4,8 @@ li#Slide-template--15516910485653__164916612656832954-1 h3 {
     line-height: 40px;
 }
 li#Slide-template--15516910485653__164916612656832954-1 {
-    width: 50%;
-    max-width: 50%;
+    width: 49%;
+    max-width: 49%;
 }
 li#Slide-template--15516910485653__164916612656832954-2, li#Slide-template--15516910485653__164916612656832954-3 {
     width: calc(25% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
