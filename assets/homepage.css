@@ -26,6 +26,6 @@ header li {
     text-transform: uppercase;
     opacity: 1;
 }
-a.button.button--primary {
+.button {
     opacity: 1;
 }
