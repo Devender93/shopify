@@ -5,3 +5,6 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+header li {
+    margin: 0 15px;
+}
