@@ -16,11 +16,12 @@ li#Slide-template--15516910485653__164916612656832954-2, li#Slide-template--1551
     margin-bottom: 15px !important;
 }
 ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
-    position: absolute;
+position: absolute;
     bottom: 0;
     left: 0px;
     right: 0px;
-    padding: 0px 15px;
+    padding: 0 15px;
+    z-index: 2;
 }
 ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__image-wrapper {
     margin: 0;
