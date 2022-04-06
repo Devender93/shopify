@@ -24,7 +24,6 @@ header li {
     line-height: 11px;
     font-size: 11px;
     text-transform: uppercase;
-    opacity: 1;
 }
 .button {
     opacity: 1 !important;
