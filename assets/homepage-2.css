@@ -36,4 +36,14 @@
     display: flex;
     text-align: center;
 }
+.testimonial_data {
+    margin: 0 5px;
+}
+.testimonial_info {
+    padding: 0 10px;
+}
 
+.test_main .designation {
+    font-size: 12px;
+    margin: 5px 0 0;
+}
