@@ -2,13 +2,10 @@
   "sections": {
     "text_image": {
       "type": "after-banner"
-    },
-    "reviews": {
-      "type": "clients_reviews"
     }
+    
   },
   "order": [
-    "text_image",
-    "clients_reviews"
+    "text_image"
   ]
 }
