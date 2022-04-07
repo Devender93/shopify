@@ -22,3 +22,18 @@
     font-weight: 500;
     font-size: 17px;
 }
+.test_main {
+    display: flex;
+}
+.testimonial_data h3 {
+    font-size: 20px;
+    margin: 0px;
+}
+.test_main img {
+    width: 100%;
+}
+.test_main {
+    display: flex;
+    text-align: center;
+}
+
