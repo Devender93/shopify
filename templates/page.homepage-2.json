@@ -1,10 +1,14 @@
 {
   "sections": {
-    "main": {
+    "text_image": {
       "type": "after-banner"
-  }
+    },
+    "reviews": {
+      "type": "clients_reviews"
+    }
   },
   "order": [
-    "main"
+    "text_image",
+    "clients_reviews"
   ]
 }
