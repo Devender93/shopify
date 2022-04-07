@@ -1,11 +1,11 @@
 {
   "sections": {
-    "text_image": {
+    "text-on-image": {
       "type": "after-banner"
     }
     
   },
   "order": [
-    "text_image"
+    "text-on-image"
   ]
 }
