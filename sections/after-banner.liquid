@@ -1,3 +1,4 @@
+{{ 'homepage-2.css' | asset_url | stylesheet_tag }}
 <div class="color-{{ section.settings.color_scheme }} gradient">
     <div class="after_slider page-width page-width--narrow section-{{ section.id }}-padding">
 <div class="after_banner">
@@ -17,14 +18,6 @@
 
 
 {%- style -%}
-.after_banner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.after_banner_right, .after_banner_middle, .after_banner_left {
-    width: 30%;
-}
 
 {%- endstyle -%}
 
