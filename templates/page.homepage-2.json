@@ -2,10 +2,13 @@
   "sections": {
     "textonimage": {
       "type": "after-banner"
+    },
+    "testimonials": {
+      "type": "testimonials"
     }
-    
   },
   "order": [
-    "textonimage"
+    "textonimage",
+    "testimonials"
   ]
 }
