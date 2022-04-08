@@ -207,8 +207,31 @@
     },
     "testimonials": {
       "type": "testimonial",
+      "blocks": {
+        "61389ea8-3b62-4aeb-be8c-9e135ec8e858": {
+          "type": "testimonial",
+          "settings": {
+            "tname": "Title",
+            "img": "shopify:\/\/shop_images\/team-1.jpg",
+            "designation": "Title",
+            "maincontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+          }
+        },
+        "07a980ce-4e79-4131-8c77-341ba0002282": {
+          "type": "testimonial",
+          "settings": {
+            "tname": "Title",
+            "img": "shopify:\/\/shop_images\/team-3.jpg",
+            "designation": "dffds",
+            "maincontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+          }
+        }
+      },
+      "block_order": [
+        "61389ea8-3b62-4aeb-be8c-9e135ec8e858",
+        "07a980ce-4e79-4131-8c77-341ba0002282"
+      ],
       "settings": {
-        "testimonials": "Title"
       }
     },
     "164939720727783bab": {
