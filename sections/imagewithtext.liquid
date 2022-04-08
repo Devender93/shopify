@@ -1,14 +1,14 @@
 {{ 'homepage-2.css' | asset_url | stylesheet_tag }}
-<div class="color-{{ section.settings.color_scheme }} gradient">
-<div class="after_slider page-width page-width--narrow section-{{ section.id }}-padding">
+
 <div class="after_banner">
 
-  {% for i in (1..3) %}
+  {%- for block in section.blocks -%}
+    
     <div class="after_left">
     <img src="{{ block.settings.bgImage | image_url }}">
     <p>{{ block.settings.upText }} </p>
     </div>
-  {% endfor %}
+  {%- endfor -%}
 
 </div>
 

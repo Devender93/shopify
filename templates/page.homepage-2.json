@@ -49,7 +49,35 @@
       }
     },
     "textonimage": {
-      "type": "after-banner",
+      "type": "imagewithtext",
+      "blocks": {
+        "a3894a3b-238b-4a98-9b92-80513d5bf9a9": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-24.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        },
+        "b58d54a9-59a0-44ac-ac93-5f90f3e6f36e": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-26.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        },
+        "5fd94a83-1357-4206-8679-abc5aa822ab6": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-27.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        }
+      },
+      "block_order": [
+        "a3894a3b-238b-4a98-9b92-80513d5bf9a9",
+        "b58d54a9-59a0-44ac-ac93-5f90f3e6f36e",
+        "5fd94a83-1357-4206-8679-abc5aa822ab6"
+      ],
       "settings": {
       }
     },
@@ -171,8 +199,41 @@
     },
     "testimonials": {
       "type": "testimonial",
+      "blocks": {
+        "5123d481-1f1d-40db-b8d4-54299a4036fb": {
+          "type": "testimonial",
+          "settings": {
+            "tname": "Jane Mcallister",
+            "img": "shopify:\/\/shop_images\/team-4.jpg",
+            "designation": "OWNER",
+            "maincontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+          }
+        },
+        "61389ea8-3b62-4aeb-be8c-9e135ec8e858": {
+          "type": "testimonial",
+          "settings": {
+            "tname": "Steve Johnson",
+            "img": "shopify:\/\/shop_images\/team-2.jpg",
+            "designation": "SECRETARY",
+            "maincontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+          }
+        },
+        "07a980ce-4e79-4131-8c77-341ba0002282": {
+          "type": "testimonial",
+          "settings": {
+            "tname": "Ebby Steve",
+            "img": "shopify:\/\/shop_images\/team-3.jpg",
+            "designation": "CHEF",
+            "maincontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
+          }
+        }
+      },
+      "block_order": [
+        "5123d481-1f1d-40db-b8d4-54299a4036fb",
+        "61389ea8-3b62-4aeb-be8c-9e135ec8e858",
+        "07a980ce-4e79-4131-8c77-341ba0002282"
+      ],
       "settings": {
-        "testimonials": "Title"
       }
     },
     "164939720727783bab": {

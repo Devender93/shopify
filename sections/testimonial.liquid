@@ -1,15 +1,14 @@
 {{ 'homepage-2.css' | asset_url | stylesheet_tag }}
-<div class="color-{{ section.settings.color_scheme }} gradient">
-<div class="testimonial page-width page-width--narrow section-{{ section.id }}-padding">
+
 <div class="test_main">
-    {% for i in (1..4) %}
+    {% for block in section.blocks %}
 
         <div class="testimonial_data">
-            <img src="https://cdn.shopify.com/s/files/1/0613/7793/7557/files/team-1.jpg?v=1649331163">
+            <img src="{{ block.settings.img | image_url }}">
             <div class="testimonial_info">
-            <h3>John Doe</h3>
-            <p class="designation">OWNER</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor.</p>
+            <h3>{{block.settings.tname}}</h3>
+            <p class="designation">{{block.settings.designation}}</p>
+            <p>{{block.settings.maincontent}}</p>
             </div>
         </div>
       
@@ -23,15 +22,38 @@
 
 {% schema %}
 {
+  "blocks": [
+{
     "name": "Testimonials",
+     "type":"testimonial",
     "settings": [
       {
-        "id": "testimonials",
-        "type": "html",
-        "label": "Testimonials",
+        "id": "tname",
+        "type": "text",
+        "label": "Name",
         "default": "Title"
+      },
+        {
+        "id": "img",
+        "type": "image_picker",
+        "label": "Main Image"
+        },
+{
+        "id": "designation",
+        "type": "text",
+        "label": "Designation",
+        "default": "Title"
+      },
+       {
+        "id": "maincontent",
+        "type": "textarea",
+        "label": "Description",
+        "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at portitor."
       }
+
      
     ]
   }
+]
+}
 {% endschema %}
