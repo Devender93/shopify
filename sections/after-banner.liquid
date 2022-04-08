@@ -5,7 +5,7 @@
 
   {% for i in (1..3) %}
     <div class="after_left">
-    <img src="{{ block.settings.image | image_url: width: 100% }}" alt="{{ block.settings.image.alt }}">
+    <img src="{{ block.settings.image | image_url }}" alt="{{ block.settings.image.alt }}">
     <p>{{ block.settings.upText }} </p>
     </div>
   {% endfor %}
