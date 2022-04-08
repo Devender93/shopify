@@ -2888,7 +2888,11 @@ details-disclosure > details {
   float: left;
   width: 100%;
 }
-.article-template__content, .article-template__social-sharing, article header {
+.article-template__social-sharing, article header {
+  width: 66%;
+  float: right;
+}
+.article-template__content {
   width: 66%;
   float: right;
 }
