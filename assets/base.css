@@ -2903,3 +2903,6 @@ article header.page-width.page-width--narrow {
 article {
   padding: 64px 0 !important;
 }
+.title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {
+  width: 100%;
+}
