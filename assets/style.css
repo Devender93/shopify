@@ -291,6 +291,15 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     line-height: 30px;
     font-size: 28px;
 }
+.test_main {
+    flex-wrap: wrap;
+}
   }
+@media(max-width:1200px) and (max-width:990px) {
+.section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
+    font-size: 44px;
+    line-height: 50px;
+}
 
+}
   /*responsive css ends*/
