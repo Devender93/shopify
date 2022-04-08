@@ -2879,43 +2879,5 @@ details-disclosure > details {
 
 
 
-.article-template__hero-container {
-  max-width: 340px;
-  float: left;
-  margin-right: 45px;
-}
-.article-template__back.element-margin-top.center {
-  float: left;
-  width: 100%;
-}
-.article-template__social-sharing, article header {
-  width: 66%;
-  float: right;
-}
-.article-template__content {
-  width: 66%;
-  float: right;
-}
-.article-template__hero-container {
-  width: 30%;
-  float: left;
-  margin-right: 45px;
-}
-article header.page-width.page-width--narrow {
-  display: block !important;
-  margin-top: 0;
-}
-article {
-  padding: 64px 0 !important;
-}
-.title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {
-  width: 100%;
-}
-#shopify-section-template--15516270526613__main, #shopify-section-template--15516270526613__16494040507ccb74d1 {
-  float: left;
-  width: 100%;
-}
-.article-template__content .article-template__content {
-  width: 100%;
-}
+
 
