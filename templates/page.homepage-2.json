@@ -1,5 +1,53 @@
 {
   "sections": {
+    "1649398277c2f66675": {
+      "type": "image-banner",
+      "blocks": {
+        "164939827727c8b4aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover our Locations",
+            "heading_size": "h1"
+          }
+        },
+        "164939827727c8b4aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Blandit vel sapien vitae, condimentum ultricies magna et orci ut et lobortis, Phasellus enim",
+            "text_style": "body"
+          }
+        },
+        "164939827727c8b4aa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Read More",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "164939827727c8b4aa-0",
+        "164939827727c8b4aa-1",
+        "164939827727c8b4aa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3S3A9552-1098x732.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "textonimage": {
       "type": "after-banner",
       "settings": {
@@ -180,6 +228,7 @@
     }
   },
   "order": [
+    "1649398277c2f66675",
     "textonimage",
     "16493958262b81b0b9",
     "1649396101f25b776f",
