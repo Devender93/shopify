@@ -73,5 +73,9 @@
 .testimonial {
     padding-bottom: 64px;
 } 
-
+#shopify-section-template--15519613321365__164939730965e2defd .rich-text {
+    background: url(https://cdn.shopify.com/s/files/1/0613/7793/7557/files/parallax-14.jpg?v=1649395852) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
