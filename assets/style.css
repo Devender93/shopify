@@ -294,6 +294,15 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 .test_main {
     flex-wrap: wrap;
 }
+#Banner-template--15519613321365__1649398277c2f66675 .banner__text.body span, #Banner-template--15519613321365__1649398277c2f66675 h2.banner__heading.h1 {
+    color: #000;
+}
+.after_banner {
+    flex-wrap: wrap;
+}
+.after_left {
+    width: 100%;
+}
   }
 @media(max-width:1200px) and (max-width:990px) {
 .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
