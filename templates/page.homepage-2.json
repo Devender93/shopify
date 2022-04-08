@@ -140,6 +140,43 @@
         "padding_top": 0,
         "padding_bottom": 64
       }
+    },
+    "164939730965e2defd": {
+      "type": "rich-text",
+      "blocks": {
+        "164939730922f1a229-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us Now !",
+            "heading_size": "h1"
+          }
+        },
+        "164939730922f1a229-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>"
+          }
+        },
+        "164939730922f1a229-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164939730922f1a229-0",
+        "164939730922f1a229-1",
+        "164939730922f1a229-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
@@ -147,6 +184,7 @@
     "16493958262b81b0b9",
     "1649396101f25b776f",
     "testimonials",
-    "164939720727783bab"
+    "164939720727783bab",
+    "164939730965e2defd"
   ]
 }
