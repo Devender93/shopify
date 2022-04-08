@@ -1,14 +1,64 @@
 {
   "sections": {
     "textonimage": {
-      "type": "after-banner"
+      "type": "after-banner",
+      "settings": {
+      }
     },
     "testimonials": {
-      "type": "testimonial"
+      "type": "testimonial",
+      "settings": {
+        "testimonials": "Title"
+      }
+    },
+    "16493958262b81b0b9": {
+      "type": "image-with-text",
+      "blocks": {
+        "1649395826512ca894-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Season Price",
+            "heading_size": "h1"
+          }
+        },
+        "1649395826512ca894-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae imperdiet lorem. Quisque sagittis, sem a mattis molestie, <span style=\"text-decoration:underline\">velit purus<\/span> blandit neque<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae imperdiet lorem. Quisque sagittis, sem a mattis molestie, velit purus blandit neque<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1649395826512ca894-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "All Promotions",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649395826512ca894-0",
+        "1649395826512ca894-1",
+        "1649395826512ca894-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/parallax-14.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
     "textonimage",
-    "testimonials"
+    "testimonials",
+    "16493958262b81b0b9"
   ]
 }
