@@ -3,14 +3,14 @@
     align-items: center;
     justify-content: space-between;
 }
-.after_banner_right, .after_banner_middle, .after_banner_left {
+.after_left {
     width: 30%;
     position: relative;
 }
 .after_banner img {
     width: 100%;
 }
-.after_banner_right p, .after_banner_middle p, .after_banner_left p {
+.after_left p {
     position: absolute;
     margin: 0;
     bottom: 20px;
