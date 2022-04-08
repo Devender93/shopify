@@ -63,11 +63,75 @@
       "settings": {
         "testimonials": "Title"
       }
+    },
+    "1649396101f25b776f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1649396101c35b12af-0": {
+          "type": "column",
+          "settings": {
+            "title": "15",
+            "text": "<p>SUITES<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1649396101c35b12af-1": {
+          "type": "column",
+          "settings": {
+            "title": "100",
+            "text": "<p>ROOMS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1649396101c35b12af-2": {
+          "type": "column",
+          "settings": {
+            "title": "47",
+            "text": "<p>APARTMENTS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "57c36f99-7f7c-42c6-97de-c3b84a180324": {
+          "type": "column",
+          "settings": {
+            "title": "97",
+            "text": "<p>STAFF<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649396101c35b12af-0",
+        "1649396101c35b12af-1",
+        "1649396101c35b12af-2",
+        "57c36f99-7f7c-42c6-97de-c3b84a180324"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
     "textonimage",
     "16493958262b81b0b9",
-    "testimonials"
+    "testimonials",
+    "1649396101f25b776f"
   ]
 }
