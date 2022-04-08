@@ -96,7 +96,7 @@
     margin: 10px 0 15px;
   }
   .testimonial_data {
-    margin: 0 !important;
+    margin: 0;
     padding-top: 20px;
 }
   .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0 {
@@ -105,15 +105,17 @@
 }
 .test_main {
     flex-wrap: wrap;
+    padding-top: 35px;
 }
 #Banner-template--15519613321365__1649398277c2f66675 .banner__text.body span, #Banner-template--15519613321365__1649398277c2f66675 h2.banner__heading.h1 {
-    color: #000 !important;
+    color: #000;
 }
 .after_banner {
     flex-wrap: wrap;
+    padding: 20px 0 40px;
 }
 .after_left {
-    width: 100% !important;
+    width: 100%;
 }
   }
 @media(max-width:1200px) and (max-width:990px) {
