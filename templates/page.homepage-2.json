@@ -50,6 +50,18 @@
     },
     "textonimage": {
       "type": "imagewithtext",
+      "blocks": {
+        "a3894a3b-238b-4a98-9b92-80513d5bf9a9": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/team-1.jpg",
+            "upText": "LOREM IPSUM LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM"
+          }
+        }
+      },
+      "block_order": [
+        "a3894a3b-238b-4a98-9b92-80513d5bf9a9"
+      ],
       "settings": {
       }
     },
