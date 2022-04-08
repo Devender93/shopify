@@ -57,10 +57,34 @@
             "bgImage": "shopify:\/\/shop_images\/team-1.jpg",
             "upText": "LOREM IPSUM LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM"
           }
+        },
+        "b58d54a9-59a0-44ac-ac93-5f90f3e6f36e": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/team-2.jpg",
+            "upText": "LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM"
+          }
+        },
+        "5fd94a83-1357-4206-8679-abc5aa822ab6": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/team-3.jpg",
+            "upText": "LOREM IPSUMdsadasda\nsdasdasdadadada"
+          }
+        },
+        "6df2a07d-01e8-485f-bb50-470aa72272e1": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-26.jpg",
+            "upText": "LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM"
+          }
         }
       },
       "block_order": [
-        "a3894a3b-238b-4a98-9b92-80513d5bf9a9"
+        "a3894a3b-238b-4a98-9b92-80513d5bf9a9",
+        "b58d54a9-59a0-44ac-ac93-5f90f3e6f36e",
+        "5fd94a83-1357-4206-8679-abc5aa822ab6",
+        "6df2a07d-01e8-485f-bb50-470aa72272e1"
       ],
       "settings": {
       }
