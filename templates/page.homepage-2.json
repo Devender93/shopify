@@ -14,6 +14,14 @@
     "16493958262b81b0b9": {
       "type": "image-with-text",
       "blocks": {
+        "fad507f1-b615-42ed-bdbc-1ab9dcbdf8df": {
+          "type": "caption",
+          "settings": {
+            "caption": "Luxury Hotel",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "1649395826512ca894-0": {
           "type": "heading",
           "settings": {
@@ -37,6 +45,7 @@
         }
       },
       "block_order": [
+        "fad507f1-b615-42ed-bdbc-1ab9dcbdf8df",
         "1649395826512ca894-0",
         "1649395826512ca894-1",
         "1649395826512ca894-2"
