@@ -126,12 +126,65 @@
       "settings": {
         "testimonials": "Title"
       }
+    },
+    "164939720727783bab": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/parallax-14.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 64
+      }
+    },
+    "164939730965e2defd": {
+      "type": "rich-text",
+      "blocks": {
+        "164939730922f1a229-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us Now !",
+            "heading_size": "h1"
+          }
+        },
+        "164939730922f1a229-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula nullam augue ipsum dolor.<\/p>"
+          }
+        },
+        "164939730922f1a229-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164939730922f1a229-0",
+        "164939730922f1a229-1",
+        "164939730922f1a229-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
     "textonimage",
     "16493958262b81b0b9",
     "1649396101f25b776f",
-    "testimonials"
+    "testimonials",
+    "164939720727783bab",
+    "164939730965e2defd"
   ]
 }
