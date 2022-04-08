@@ -2,14 +2,14 @@
 
 <div class="after_banner">
 
-  {% for block in sections.block %}
-    {{sections.block}}
+  {%- for block in section.block -%}
+    {{section.block}}
   
     <div class="after_left">
     <img src="{{ block.settings.bgImage | image_url }}">
     <p>{{ block.settings.upText }} </p>
     </div>
-  {% endfor %}
+  {%- endfor -%}
 
 </div>
 
