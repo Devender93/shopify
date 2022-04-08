@@ -90,7 +90,11 @@
 
 
 
-
+@media(max-width:749px ){
+ #Banner-template--15519613321365__1649398277c2f66675 .banner__text.body span, #Banner-template--15519613321365__1649398277c2f66675 h2.banner__heading.h1 {
+        color: #000;
+    }
+}
 @media(max-width:767px ){
   #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
     margin: 10px 0 15px;
@@ -106,9 +110,6 @@
 .test_main {
     flex-wrap: wrap;
     padding-top: 35px;
-}
-#Banner-template--15519613321365__1649398277c2f66675 .banner__text.body span, #Banner-template--15519613321365__1649398277c2f66675 h2.banner__heading.h1 {
-    color: #000;
 }
 .after_banner {
     flex-wrap: wrap;
