@@ -2,7 +2,9 @@
 
 <div class="after_banner">
 
-  {% for i in (1..3) %}
+  {% for block in sections.block %}
+    {{section.block}}
+  
     <div class="after_left">
     <img src="{{ block.settings.bgImage | image_url }}">
     <p>{{ block.settings.upText }} </p>
