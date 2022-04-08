@@ -126,12 +126,27 @@
       "settings": {
         "testimonials": "Title"
       }
+    },
+    "164939720727783bab": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/parallax-14.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
     "textonimage",
     "16493958262b81b0b9",
     "1649396101f25b776f",
-    "testimonials"
+    "testimonials",
+    "164939720727783bab"
   ]
 }
