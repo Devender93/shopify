@@ -66,6 +66,13 @@
     font-size: 50px;
     color: white;
 }
-
+.after_slider {
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.testimonial {
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
 
 
