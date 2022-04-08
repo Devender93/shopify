@@ -61,7 +61,7 @@
     "1649245602b5aed179": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Our News",
+        "heading": "",
         "heading_size": "h1",
         "blog": "news",
         "post_limit": 3,
