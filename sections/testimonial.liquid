@@ -22,15 +22,38 @@
 
 {% schema %}
 {
+  "blocks": [
+{
     "name": "Testimonials",
+     "type":"testimonial",
     "settings": [
       {
         "id": "testimonials",
-        "type": "html",
+        "type": "text",
         "label": "Testimonials",
         "default": "Title"
+      },
+        {
+        "id": "img",
+        "type": "image_picker",
+        "label": "Main Image"
+        },
+{
+        "id": "designation",
+        "type": "text",
+        "label": "Designation",
+        "default": "Title"
+      },
+       {
+        "id": "maincontent",
+        "type": "textarea",
+        "label": "Description",
+        "default": "Title"
       }
+
      
     ]
   }
+]
+}
 {% endschema %}
