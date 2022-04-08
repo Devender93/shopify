@@ -49,7 +49,7 @@
       }
     },
     "textonimage": {
-      "type": "after-banner",
+      "type": "imagewithtext",
       "settings": {
       }
     },
