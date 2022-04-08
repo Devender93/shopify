@@ -1,6 +1,6 @@
 {{ 'section-blog-post.css' | asset_url | stylesheet_tag }}
 
-<article class="article-template page-width page-width--narrow section-{{ section.id }}-padding" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="article-template single_news page-width page-width--narrow section-{{ section.id }}-padding" itemscope itemtype="http://schema.org/BlogPosting">
   {%- for block in section.blocks -%}
     {%- case block.type -%}
       {%- when '@app' -%}
