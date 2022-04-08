@@ -1,5 +1,6 @@
 {{ 'homepage-2.css' | asset_url | stylesheet_tag }}
-
+<div class="color-{{ section.settings.color_scheme }} gradient">
+  <div class="textOnimg page-width page-width--narrow section-{{ section.id }}-padding">
 <div class="after_banner">
 
   {%- for block in section.blocks -%}
@@ -10,6 +11,8 @@
     </div>
   {%- endfor -%}
 
+</div>
+</div>
 </div>
 
 {% schema %}
