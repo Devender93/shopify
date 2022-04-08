@@ -58,12 +58,6 @@
         "padding_bottom": 64
       }
     },
-    "testimonials": {
-      "type": "testimonial",
-      "settings": {
-        "testimonials": "Title"
-      }
-    },
     "1649396101f25b776f": {
       "type": "multicolumn",
       "blocks": {
@@ -124,14 +118,20 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 64,
-        "padding_bottom": 64
+        "padding_bottom": 100
+      }
+    },
+    "testimonials": {
+      "type": "testimonial",
+      "settings": {
+        "testimonials": "Title"
       }
     }
   },
   "order": [
     "textonimage",
     "16493958262b81b0b9",
-    "testimonials",
-    "1649396101f25b776f"
+    "1649396101f25b776f",
+    "testimonials"
   ]
 }
