@@ -2915,3 +2915,6 @@ article {
   float: left;
   width: 100%;
 }
+.article-template__content .article-template__content {
+  width: 100%;
+}
