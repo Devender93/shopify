@@ -5,12 +5,6 @@
       "settings": {
       }
     },
-    "testimonials": {
-      "type": "testimonial",
-      "settings": {
-        "testimonials": "Title"
-      }
-    },
     "16493958262b81b0b9": {
       "type": "image-with-text",
       "blocks": {
@@ -63,11 +57,17 @@
         "padding_top": 64,
         "padding_bottom": 64
       }
+    },
+    "testimonials": {
+      "type": "testimonial",
+      "settings": {
+        "testimonials": "Title"
+      }
     }
   },
   "order": [
     "textonimage",
-    "testimonials",
-    "16493958262b81b0b9"
+    "16493958262b81b0b9",
+    "testimonials"
   ]
 }
