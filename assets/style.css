@@ -288,7 +288,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     margin: 10px 0 15px;
   }
   .testimonial_data {
-    margin: 0;
+    margin: 0 !important;
     padding-top: 20px;
 }
   .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0 {
