@@ -272,7 +272,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 /*responsive css starts*/
 @media(max-width:989px ){
     .menu-drawer__close-button {
-      font-size: 1.8rem;
+      font-size: 1.8rem !important;
   }
   .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
     font-size: 35px;
