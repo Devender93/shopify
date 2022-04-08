@@ -40,7 +40,7 @@
     "16494040507ccb74d1": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Our Recent Blogs",
         "heading_size": "h1",
         "blog": "latest",
         "post_limit": 3,

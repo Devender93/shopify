@@ -61,7 +61,7 @@
     "1649245602b5aed179": {
       "type": "featured-blog",
       "settings": {
-        "heading": "News",
+        "heading": "Latest News",
         "heading_size": "h1",
         "blog": "news",
         "post_limit": 3,
@@ -78,7 +78,7 @@
     "1649404950ce59b78d": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Latest",
+        "heading": "Recent Posts",
         "heading_size": "h1",
         "blog": "latest",
         "post_limit": 3,
