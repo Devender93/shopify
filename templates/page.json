@@ -14,7 +14,7 @@
         "16491553905f81d836-0": {
           "type": "heading",
           "settings": {
-            "heading": "Bookings",
+            "heading": "Blog",
             "heading_size": "h1"
           }
         },
@@ -45,8 +45,8 @@
         "16491553905f81d836-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/img-17.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/parallax-6.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
