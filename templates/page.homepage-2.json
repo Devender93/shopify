@@ -1,14 +1,137 @@
 {
   "sections": {
     "textonimage": {
-      "type": "after-banner"
+      "type": "after-banner",
+      "settings": {
+      }
+    },
+    "16493958262b81b0b9": {
+      "type": "image-with-text",
+      "blocks": {
+        "fad507f1-b615-42ed-bdbc-1ab9dcbdf8df": {
+          "type": "caption",
+          "settings": {
+            "caption": "Luxury Hotel",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "1649395826512ca894-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Season Price",
+            "heading_size": "h1"
+          }
+        },
+        "1649395826512ca894-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae imperdiet lorem. Quisque sagittis, sem a mattis molestie, <span style=\"text-decoration:underline\">velit purus<\/span> blandit neque<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae imperdiet lorem. Quisque sagittis, sem a mattis molestie, velit purus blandit neque<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1649395826512ca894-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "All Promotions",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fad507f1-b615-42ed-bdbc-1ab9dcbdf8df",
+        "1649395826512ca894-0",
+        "1649395826512ca894-1",
+        "1649395826512ca894-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/parallax-14.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     },
     "testimonials": {
-      "type": "testimonial"
+      "type": "testimonial",
+      "settings": {
+        "testimonials": "Title"
+      }
+    },
+    "1649396101f25b776f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1649396101c35b12af-0": {
+          "type": "column",
+          "settings": {
+            "title": "15",
+            "text": "<p>SUITES<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1649396101c35b12af-1": {
+          "type": "column",
+          "settings": {
+            "title": "100",
+            "text": "<p>ROOMS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1649396101c35b12af-2": {
+          "type": "column",
+          "settings": {
+            "title": "47",
+            "text": "<p>APARTMENTS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "57c36f99-7f7c-42c6-97de-c3b84a180324": {
+          "type": "column",
+          "settings": {
+            "title": "97",
+            "text": "<p>STAFF<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649396101c35b12af-0",
+        "1649396101c35b12af-1",
+        "1649396101c35b12af-2",
+        "57c36f99-7f7c-42c6-97de-c3b84a180324"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
     }
   },
   "order": [
     "textonimage",
-    "testimonials"
+    "16493958262b81b0b9",
+    "testimonials",
+    "1649396101f25b776f"
   ]
 }
