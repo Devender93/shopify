@@ -284,29 +284,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
   .section-template--15516270723221__16492420467723fbeb-padding h2 {
     line-height: 30px;
   }
-  #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
-    margin: 10px 0 15px;
-  }
-  .testimonial_data {
-    margin: 0 !important;
-    padding-top: 20px;
-}
-  .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0 {
-    line-height: 30px;
-    font-size: 28px;
-}
-.test_main {
-    flex-wrap: wrap;
-}
-#Banner-template--15519613321365__1649398277c2f66675 .banner__text.body span, #Banner-template--15519613321365__1649398277c2f66675 h2.banner__heading.h1 {
-    color: #000 !important;
-}
-.after_banner {
-    flex-wrap: wrap;
-}
-.after_left {
-    width: 100% !important;
-}
+ 
   }
 @media(max-width:1200px) and (max-width:990px) {
 .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
