@@ -2878,3 +2878,28 @@ details-disclosure > details {
 
 
 
+.article-template__hero-container {
+  max-width: 340px;
+  float: left;
+  margin-right: 45px;
+}
+.article-template__back.element-margin-top.center {
+  float: left;
+  width: 100%;
+}
+.article-template__content, .article-template__social-sharing, article header {
+  width: 66%;
+  float: right;
+}
+.article-template__hero-container {
+  width: 30%;
+  float: left;
+  margin-right: 45px;
+}
+article header.page-width.page-width--narrow {
+  display: block !important;
+  margin-top: 0;
+}
+article {
+  padding: 64px 0 !important;
+}
