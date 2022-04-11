@@ -326,7 +326,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     }
     .left_textmap {
         padding: 0 25px 25px !important;
-        width: 100%;
+        width: 100% !important;
     }
     .right_textmap {
         width: 100%;
