@@ -339,6 +339,10 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     article header {
         padding-top: 15px !important;
     }
+    article header, .article-template__content, .article-template__social-sharing {
+        padding: 0 25px !important;
+    }
+    
     
 }
 
