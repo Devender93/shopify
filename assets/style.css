@@ -334,7 +334,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     .article-template__hero-container, .article-template__social-sharing, article header,
     .article-template__content  {
         width: 100%;
-        padding: 0 25px;
+        padding: 0 25px !important;
     }
     
 }
