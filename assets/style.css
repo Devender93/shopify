@@ -339,7 +339,10 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     article header {
         padding-top: 15px !important;
     }
-  
+    ul#Slider-template--15516910485653__164922938730a0f0e8 .multicolumn-card__info {
+        margin-left: 0;
+        text-align: left;
+    }
 }
 
 @media(max-width:989px) and (min-width:750px) {
