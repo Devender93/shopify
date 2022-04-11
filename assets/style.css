@@ -366,6 +366,10 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     .article-template__hero-container {
         margin-left: 25px !important;
     }
+    ul#Slider-template--15516910485653__1649227455ff13b57f li {
+        margin: 0 5px;
+        width: 28%;
+    }
 }
 
 @media(max-width:1220px) and (min-width:990px) {
