@@ -331,6 +331,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     .right_textmap {
         width: 100%;
     }
+    .article-template__hero-container, .article-template__social-sharing, article header,
+    .article-template__content  {
+        width: 100%;
+        padding: 0 25px;
+    }
+    
 }
 
 @media(max-width:989px) and (min-width:750px) {
@@ -340,7 +346,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 
 }
 
-@media(max-width:1200px) and (min-width:990px) {
+@media(max-width:1220px) and (min-width:990px) {
 .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
     font-size: 44px;
     line-height: 50px;
