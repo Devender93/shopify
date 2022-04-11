@@ -269,6 +269,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 }
 /*about css ends*/
 
+/*contact css starts*/
+.right_textmap, .left_textmap {
+    width: 50%;
+}
+/*contact css ends*/
+
 /*responsive css starts*/
 @media(max-width:989px ){
 .menu-drawer__close-button {
@@ -321,15 +327,13 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     .left_textmap {
         padding: 0 25px 25px !important;
     }
-    .right_textmap iframe {
-        width: 100%;
-    }
     .right_textmap {
         width: 100%;
     }
 }
 
 @media(max-width:989px) and (min-width:750px) {
+
 
 }
 
