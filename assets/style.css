@@ -312,6 +312,18 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
         text-align: left;
         line-height: 28px;
     }
+    .multicolumn-card__info p {
+        margin-bottom: 0px!important;
+    }
+    .main_textmap {
+        flex-direction: column;
+    }
+    .left_textmap {
+        padding: 0 25px 25px;
+    }
+    .right_textmap iframe {
+        width: 100%;
+    }
 }
 
 @media(max-width:989px) and (min-width:750px) {
