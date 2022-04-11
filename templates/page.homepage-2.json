@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Read More",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/themesetupabacus.myshopify.com\/pages\/about-us",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -110,7 +110,7 @@
           "type": "button",
           "settings": {
             "button_label": "All Promotions",
-            "button_link": ""
+            "button_link": "https:\/\/themesetupabacus.myshopify.com\/pages\/bookings"
           }
         }
       },
@@ -280,7 +280,7 @@
           "type": "button",
           "settings": {
             "button_label": "Contact Us",
-            "button_link": "",
+            "button_link": "https:\/\/themesetupabacus.myshopify.com\/pages\/contact",
             "button_style_secondary": false
           }
         }
