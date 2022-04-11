@@ -351,6 +351,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
         margin: 5px 15px;
         width: 50%;
     }
+    ul#Slider-template--15516910485653__1649232860c12dd62e .media.media--transparent.media--adapt {
+        padding-bottom: 65px;
+    }
 }
 
 @media(max-width:989px) and (min-width:750px) {
