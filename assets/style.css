@@ -349,7 +349,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     article header, .article-template__content, .article-template__social-sharing {
         padding: 0 25px !important;
     }
-
+    .article-template__hero-container {
+        margin-left: 25px !important;
+    }
 }
 
 @media(max-width:1220px) and (min-width:990px) {
@@ -359,6 +361,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 }
 .right_textmap {
     padding-right: 25px;
+}
+article header, .article-template__content, .article-template__social-sharing {
+    padding: 0 25px !important;
+}
+.article-template__hero-container {
+    margin-left: 25px !important;
 }
 }
   /*responsive css ends*/
