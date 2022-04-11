@@ -307,7 +307,11 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
         width: 100%;
         max-width: 100%;
     }
-
+    li#Slide-template--15516910485653__164916612656832954-1 h3 {
+        font-size: 22px;
+        text-align: left;
+        line-height: 28px;
+    }
 }
 
 @media(max-width:989px) and (min-width:750px) {
