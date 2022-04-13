@@ -1,11 +1,6 @@
 {
   "sections": {
-    "main": {
-      "type": "text-with-map",
-      "disabled": true,
-      "settings": {
-      }
-    },
+    
     "164924801225a7195e": {
       "type": "image-banner",
       "blocks": {
@@ -36,7 +31,7 @@
     }
   },
   "order": [
-    "main",
+    
     "164924801225a7195e"
   ]
 }
