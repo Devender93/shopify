@@ -402,5 +402,8 @@ article header, .article-template__content, .article-template__social-sharing {
 .article-template__hero-container {
     margin-left: 25px !important;
 }
+ul#Slider-template--15516910485653__1649227455ff13b57f li {
+    margin: 0 auto;
+}
 }
   /*responsive css ends*/
