@@ -373,12 +373,15 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     ul#Slider-template--15516910485653__164922938730a0f0e8 .multicolumn-card__info {
         margin-left: 0;
     }
-    ul#Slider-template--15516910485653__164922938730a0f0e8 .grid--1-col-tablet-down .grid__item {
+    ul#Slider-template--15516910485653__164922938730a0f0e8 li {
         width: 24%;
         text-align: left;
     }
     ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__image-wrapper--third-width {
-        width: 75%;
+        width: 15%;
+    }
+    ul#Slider-template--15516910485653__1649232860c12dd62e li {
+        margin-bottom: 15px;
     }
 }
 
