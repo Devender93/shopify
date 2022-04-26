@@ -371,7 +371,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     line-height: 40px;
 }
   .section-template--15516270723221__1649239715db27071b-padding {
-    padding-top: 55px;
+    padding-top: 55px !important;
 }
 div#ImageWithText--template--15516270723221__1649239715db27071b {
     padding: 40px 0px 8px;
