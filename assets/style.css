@@ -440,6 +440,10 @@ footer li a {
  .banner__box {
     padding: 45px 15px 45px;
 }
+  .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info h3, .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info p {
+    text-align: center !important;
+}
+
 }
 
 @media(max-width:989px) and (min-width:750px) {
