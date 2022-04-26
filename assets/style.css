@@ -449,6 +449,13 @@ footer li a {
   .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info h3 {
     padding-bottom:10px;
 }
+  .section-template--15516910485653__164916612656832954-padding {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+  ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
+    bottom: 10px;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
