@@ -27,7 +27,7 @@
 .test_main {
     display: flex;
     text-align: center;
-    padding-bottom:45px;
+    padding-bottom:35px;
 }
 .testimonial_data h3 {
     font-size: 20px;
@@ -103,14 +103,28 @@
     }
 .after_banner {
     flex-wrap: wrap;
-    padding: 40px 0 40px;
+    padding: 55px 0 38px;
 }
 .section-template--15519613321365__1649396101f25b776f-padding {
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 .after_left {
     width: 100%;
+    margin-bottom: 8px;
 }
+ div#Banner-template--15519613321365__1649398277c2f66675 .banner__box {
+    padding: 45px 15px 55px;
+}
+  .section-template--15519613321365__16493958262b81b0b9-padding {
+    padding-top: 55px !important;
+    padding-bottom: 55px !important;
+}
+  div#ImageWithText--template--15519613321365__16493958262b81b0b9 {
+    padding: 40px 15px 40px;
+    align-items: center;
+    text-align: center;
+}
+  
 }
 @media(max-width:767px ){
   #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
