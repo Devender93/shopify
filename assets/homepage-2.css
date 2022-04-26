@@ -27,7 +27,7 @@
 .test_main {
     display: flex;
     text-align: center;
-    padding-bottom: 64px;
+    padding-bottom:45px;
 }
 .testimonial_data h3 {
     font-size: 20px;
