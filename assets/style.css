@@ -468,11 +468,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     text-align: center;
     align-items: center;
 }
-  ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__image-wrapper--third-width {
-    margin: auto;
-}
   ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     margin-top: 10px;
+}
+ ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card__image-wrapper--third-width {
+    margin: auto;
+    width: 55px;
 }
 }
 
