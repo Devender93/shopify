@@ -480,6 +480,9 @@ footer li a {
   footer li a {
     padding: 0px !important;
 }
+  .footer__content-top {
+    padding-bottom: 25px !important;
+}
 }
 
 @media(max-width:1220px) and (min-width:990px) {
