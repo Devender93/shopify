@@ -11,7 +11,7 @@
     line-height: 28px;
 }
 .footer__content-top {
-    padding-bottom: 20px;
+    padding-bottom: 20px !important;
 }
 
 /*homepage css starts*/
