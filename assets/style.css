@@ -357,6 +357,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     ul#Slider-template--15516910485653__1649232860c12dd62e .media.media--transparent.media--adapt {
         padding-bottom: 65px !important;
     }
+  div#Banner-template--15516270723221__image_banner .banner__box {
+    padding-top: 30px;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
