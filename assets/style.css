@@ -425,6 +425,10 @@ footer ul li a {
     font-size: 18px;
     font-weight: 600;
 }
+  .footer-block.grid__item {
+    text-align: center;
+}
+
 }
 
 @media(max-width:989px) and (min-width:750px) {
