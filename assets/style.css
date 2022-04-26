@@ -428,7 +428,9 @@ footer ul li a {
   .footer-block.grid__item {
     text-align: center;
 }
-
+footer li a {
+    display: block !important;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
