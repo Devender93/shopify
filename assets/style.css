@@ -463,6 +463,12 @@ footer li a {
     ul#Slider-template--15516910485653__1649232860c12dd62e li {
         margin-bottom: 15px;
     }
+  .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0 {
+    margin: 20px 0 15px;
+}
+  .image-with-text__content .image-with-text__text+.button {
+    margin-top: 1rem !important;
+}
 }
 
 @media(max-width:1220px) and (min-width:990px) {
