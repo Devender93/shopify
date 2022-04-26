@@ -474,6 +474,9 @@ footer li a {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+  #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
+    margin: 10px 0 10px;
+}
 }
 
 @media(max-width:1220px) and (min-width:990px) {
