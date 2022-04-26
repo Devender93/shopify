@@ -443,7 +443,12 @@ footer li a {
   .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info h3, .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info p {
     text-align: center !important;
 }
-
+  .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info {
+    padding: 0;
+}
+  .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info h3 {
+    padding-bottom: 5px;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
