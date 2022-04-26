@@ -298,7 +298,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 @media(max-width:749px ){
     .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0,
     .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0 {
-        margin: 10px 0 20px;
+        margin: 10px 0 10px;
     }
     #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
         margin: 10px 0 10px;
@@ -366,6 +366,18 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
   div#Banner-template--15516270723221__image_banner h2.banner__heading.h0 {
     line-height: 40px;
 }
+  .section-template--15516270723221__1649239715db27071b-padding {
+    padding-top: 55px;
+}
+div#ImageWithText--template--15516270723221__1649239715db27071b {
+    padding: 30px 0px 8px;
+    align-items: center;
+    text-align: center;
+}
+div#ImageWithText--template--15516270723221__16492405776a8cadc7 {
+    padding: 55px 15px 55px;
+}
+
 }
 
 @media(max-width:989px) and (min-width:750px) {
