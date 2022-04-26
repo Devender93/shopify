@@ -10,6 +10,9 @@
     margin: 0px !important;
     line-height: 28px;
 }
+.footer__content-top {
+    padding-bottom: 20px;
+}
 
 /*homepage css starts*/
 header {
