@@ -375,7 +375,37 @@ div#ImageWithText--template--15516270723221__1649239715db27071b {
     text-align: center;
 }
 div#ImageWithText--template--15516270723221__16492405776a8cadc7 {
-    padding: 55px 15px 55px;
+    padding: 55px 15px;
+    align-items: center;
+    text-align: center;
+}
+.image-with-text__content .image-with-text__text+.button {
+    margin-top: 1rem;
+}
+  .section-template--15516270723221__16492420467723fbeb-padding {
+    padding: 48px 15px;
+}
+.rich-text__blocks {
+    margin: 0px !important;
+    width: 100% !important;
+}
+.section-template--15516270723221__16492420467723fbeb-padding h2 {
+    line-height: 28px;
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+.section-template--15516270723221__1649242284e6923489-padding {
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+div#ImageWithText--template--15516270723221__1649242284e6923489, 
+div#ImageWithText--template--15516270723221__1649242894a489ae84 {
+    padding: 35px 15px;
+    align-items: center;
+    text-align: center;
+}
+.section-template--15516270723221__1649242894a489ae84-padding {
+    padding-bottom: 55px;
 }
 
 }
