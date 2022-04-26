@@ -360,6 +360,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
   div#Banner-template--15516270723221__image_banner .banner__box {
     padding-top: 30px;
 }
+  div#Banner-template--15516270723221__image_banner .banner__text.subtitle {
+    line-height: 28px;
+}
+  div#Banner-template--15516270723221__image_banner h2.banner__heading.h0 {
+    line-height: 40px;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
