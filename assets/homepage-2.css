@@ -124,7 +124,9 @@
     align-items: center;
     text-align: center;
 }
-  
+ .section-template--15519613321365__164939730965e2defd-padding {
+    padding: 55px 15px 55px;
+} 
 }
 @media(max-width:767px ){
   #ImageWithText--template--15516270723221__1649242284e6923489 h2, #shopify-section-template--15516270723221__1649242894a489ae84 h2 {
