@@ -232,7 +232,7 @@ ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info p
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    padding: 55px 0 10px;
+    padding: 45px 0 20px;
 }
 #shopify-section-template--15516910485653__164922938730a0f0e8 h2 {
     max-width: 440px;
@@ -455,6 +455,9 @@ footer li a {
 }
   ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
     bottom: 10px;
+}
+  .section-template--15516910485653__164922938730a0f0e8-padding, ul#Slider-template--15516910485653__164922938730a0f0e8 h3, ul#Slider-template--15516910485653__164922938730a0f0e8 p {
+    text-align: center;
 }
 }
 
