@@ -464,11 +464,15 @@ footer li a {
         margin-bottom: 15px;
     }
   .section-template--15516270723221__1649239715db27071b-padding h2.image-with-text__heading.h0, 
-  .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0{
+  .section-template--15516270723221__16492405776a8cadc7-padding h2.image-with-text__heading.h0 {
     margin: 20px 0 15px;
 }
   .image-with-text__content .image-with-text__text+.button {
     margin-top: 1rem !important;
+}
+  .section-template--15516270723221__16492420467723fbeb-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 }
 
