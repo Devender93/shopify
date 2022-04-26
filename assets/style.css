@@ -431,6 +431,9 @@ footer ul li a {
 footer li a {
     display: block !important;
 }
+  .footer__localization:empty+.footer__column {
+    padding-top: 0 !important;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
