@@ -450,8 +450,8 @@ footer li a {
     padding-bottom:10px;
 }
   .section-template--15516910485653__164916612656832954-padding {
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding-top: 50px !important;
+    padding-bottom: 40px !important;
 }
   ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
     bottom: 10px;
