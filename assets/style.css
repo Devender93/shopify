@@ -395,8 +395,8 @@ div#ImageWithText--template--15516270723221__16492405776a8cadc7 {
     letter-spacing: 0px;
 }
 .section-template--15516270723221__1649242284e6923489-padding {
-    padding-top: 55px;
-    padding-bottom: 55px;
+    padding-top: 55px !important;
+    padding-bottom: 55px !important;
 }
 div#ImageWithText--template--15516270723221__1649242284e6923489, 
 div#ImageWithText--template--15516270723221__1649242894a489ae84 {
