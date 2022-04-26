@@ -461,7 +461,10 @@ footer li a {
 }
   .section-template--15516910485653__1649232860c12dd62e-padding {
     padding-top: 45px;
-    padding-bottom: 55px;
+    padding-bottom: 35px;
+}
+  ul#Slider-template--15516910485653__1649232860c12dd62e li {
+    margin-bottom: 25px;
 }
 }
 
