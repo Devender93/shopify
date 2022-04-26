@@ -415,7 +415,7 @@ footer {
     padding-top: 50px !important;
 }
 .footer__content-top {
-    padding-bottom: 5px;
+    padding-bottom: 5px !important;
 }
 footer ul li a {
     padding: 4px 0px !important;
