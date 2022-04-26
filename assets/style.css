@@ -438,7 +438,7 @@ footer li a {
     padding-top: 0 !important;
 }
  .banner__box {
-    padding: 45px 15px 45px;
+    padding: 45px 15px 45px !important;
 }
   .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info h3, .section-template--15516910485653__164916612656832954-padding .multicolumn-card__info p {
     text-align: center !important;
