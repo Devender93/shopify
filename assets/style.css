@@ -6,6 +6,10 @@
 #Banner-template--15519594414229__164924801225a7195e h2{
     color: white;
 }
+.footer-block__details-content.rte p {
+    margin: 0px !important;
+    line-height: 28px;
+}
 
 /*homepage css starts*/
 header {
