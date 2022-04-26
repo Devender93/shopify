@@ -459,6 +459,10 @@ footer li a {
   .section-template--15516910485653__164922938730a0f0e8-padding, ul#Slider-template--15516910485653__164922938730a0f0e8 h3, ul#Slider-template--15516910485653__164922938730a0f0e8 p {
     text-align: center;
 }
+  .section-template--15516910485653__1649232860c12dd62e-padding {
+    padding-top: 45px;
+    padding-bottom: 55px;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
