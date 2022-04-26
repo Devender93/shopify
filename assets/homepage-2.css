@@ -1,3 +1,6 @@
+.page-width--narrow {
+    padding: 0 4rem;
+}
 .after_banner {
     display: flex;
     align-items: center;
