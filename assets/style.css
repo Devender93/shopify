@@ -658,6 +658,10 @@ ul#Slider-template--15516910485653__1649227455ff13b57f li {
     width: calc(32% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(32% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
+  .main-blog.page-width.section-template--15516270788757__main-padding {
+    padding-top: 25px;
+    padding-bottom: 0;
+}
 }
  
   
