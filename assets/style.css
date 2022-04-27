@@ -588,11 +588,11 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     padding-bottom: 35px !important;
 }
  .section-template--15516270952597__1649245602b5aed179-padding {
-    padding-top: 40px;
-    padding-bottom: 15px;
+    padding-top: 40px !important;
+    padding-bottom: 15px !important;
 }
   .section-template--15516270952597__1649404950ce59b78d-padding {
-    padding-bottom: 25px;
+    padding-bottom: 25px !important;
 }
 }
 
