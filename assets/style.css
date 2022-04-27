@@ -567,7 +567,7 @@ article {
     margin-top: 1rem!important;
 }
   .drop_a_line {
-    padding: 50px 0 0;
+    padding: 50px 0 0 !important;
 }
   .contact {
     margin: 45px 15px 55px!important;
