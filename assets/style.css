@@ -524,6 +524,18 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
   .footer__content-top {
     padding-bottom: 25px !important;
 }
+ li#Slide-template--15516910485653__164916612656832954-1 h3 {
+    font-size: 22px;
+    line-height: 30px;
+}
+ li#Slide-template--15516910485653__164916612656832954-1 {
+    width: 39%;
+    max-width: 39%;
+}
+  li#Slide-template--15516910485653__164916612656832954-2, li#Slide-template--15516910485653__164916612656832954-3 {
+    width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+    max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+}
 }
 
 @media(max-width:1220px) and (min-width:990px) {
