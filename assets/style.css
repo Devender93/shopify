@@ -171,10 +171,6 @@ content: "";
   .main-blog {
     padding-top: 0px;
 }
- ul#Slider-template--15516270952597__1649245602b5aed179 li, ul#Slider-template--15516270952597__1649404950ce59b78d li {
-    margin: auto;
-    max-width: 30%;
-}
   .card__information {
     padding: 15px 0 15px !important;
 }
@@ -589,4 +585,12 @@ ul#Slider-template--15516910485653__1649227455ff13b57f li {
     max-width: calc(32% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
 }
+ 
+  @media (min-width:990px){
+  
+ ul#Slider-template--15516270952597__1649245602b5aed179 li, ul#Slider-template--15516270952597__1649404950ce59b78d li {
+    margin: auto;
+    max-width: 30%;
+}
+  }
   /*responsive css ends*/
