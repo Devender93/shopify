@@ -537,8 +537,25 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     padding-top: 25px;
     padding-bottom: 0;
 }
-  article {
+article {
     padding: 55px 0!important;
+    text-align: center;
+}
+  article p {
+    margin: 0px;
+}
+  button.share-button__button {
+    margin: auto;
+}
+  .article-template__back.element-margin-top.center {
+    margin: 35px 0 30px;
+}
+  .page-width-desktop.isolate.section-template--15516270526613__16494040507ccb74d1-padding .title-wrapper--no-top-margin {
+    display: block;
+    text-align: center;
+}
+  .page-width-desktop.isolate.section-template--15516270526613__16494040507ccb74d1-padding {
+    padding: 10px 15px 25px;
 }
 }
 
