@@ -503,16 +503,18 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
  .card__information {
     text-align: center;
 }
- .section-template--15516270952597__1649245602b5aed179-padding {
-    padding-top: 45px !important;
-    padding-bottom: 18px !important;
+.section-template--15516270952597__1649245602b5aed179-padding {
+    padding: 45px 15px 18px!important;
 }
   .section-template--15516270952597__1649404950ce59b78d-padding {
-    padding-bottom: 25px !important;
+    padding: 0px 15px 25px!important;
 }
 .blog__post.article {
     width: calc(100% + 0rem)!important;
     margin-left: 0 !important;
+}
+ .slider.slider--tablet {
+    scroll-padding-left: 0 !important;
 }
 }
 
