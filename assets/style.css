@@ -510,6 +510,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
   .section-template--15516270952597__1649404950ce59b78d-padding {
     padding-bottom: 25px !important;
 }
+ .blog__post.article {
+    width: calc(100% - 0rem);
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
