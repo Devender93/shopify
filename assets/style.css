@@ -576,6 +576,9 @@ article {
   .left_textmap {
     padding: 0 25px 45px!important;
 }
+  .contact {
+    max-width: 750px;
+}
 }
 
   
