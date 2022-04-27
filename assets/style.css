@@ -533,6 +533,10 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
  .slider.slider--tablet {
     scroll-padding-left: 0 !important;
 }
+  .main-blog.page-width.section-template--15516270788757__main-padding {
+    padding-top: 25px;
+    padding-bottom: 0;
+}
 }
 
   
