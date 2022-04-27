@@ -511,7 +511,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     padding-bottom: 25px !important;
 }
  .blog__post.article {
-    width: calc(100% - 0rem);
+    width: calc(100% - 0rem)!important;
 }
 }
 
