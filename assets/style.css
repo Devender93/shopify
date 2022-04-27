@@ -571,5 +571,12 @@ article header, .article-template__content, .article-template__social-sharing {
 ul#Slider-template--15516910485653__1649227455ff13b57f li {
     margin: 0 auto;
 }
+ .multicolumn-card__info p {
+    margin-bottom: 0px!important;
+}
+  ul#Slider-template--15516910485653__1649227455ff13b57f li {
+    width: calc(32% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+    max-width: calc(32% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+}
 }
   /*responsive css ends*/
