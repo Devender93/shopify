@@ -89,7 +89,7 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 0,
-        "padding_bottom": 8
+        "padding_bottom": 12
       }
     }
   },
