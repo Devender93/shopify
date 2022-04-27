@@ -503,11 +503,11 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     text-align: center;
 }
  .section-template--15516270952597__1649245602b5aed179-padding {
-    padding-top: 45px;
-    padding-bottom: 18px;
+    padding-top: 45px !important;
+    padding-bottom: 18px !important;
 }
   .section-template--15516270952597__1649404950ce59b78d-padding {
-    padding-bottom: 25px;
+    padding-bottom: 25px !important;
 }
 }
 
