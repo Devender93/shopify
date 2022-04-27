@@ -171,7 +171,7 @@ content: "";
   .main-blog {
     padding-top: 0px;
 }
- ul#Slider-template--15516270952597__1649245602b5aed179 li {
+ ul#Slider-template--15516270952597__1649245602b5aed179 li, ul#Slider-template--15516270952597__1649404950ce59b78d li {
     margin: auto;
     max-width: 30%;
 }
