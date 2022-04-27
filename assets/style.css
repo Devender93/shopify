@@ -601,6 +601,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     scroll-padding-left: 0!important;
     scroll-padding-right: 0 !important;
 }
+  .section-template--15516270952597__1649245602b5aed179-padding .title-wrapper-with-link, .section-template--15516270952597__1649404950ce59b78d-padding .title-wrapper-with-link {
+    padding: 0px;
+}
 }
 
   
