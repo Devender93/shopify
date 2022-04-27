@@ -475,6 +475,12 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     margin: auto;
     width: 55px;
 }
+  .section-template--15516910485653__164922938730a0f0e8-padding .title-wrapper-with-link {
+    display: block;
+}
+  #shopify-section-template--15516910485653__164922938730a0f0e8 h2 {
+    max-width: 100%;
+}
 }
 
 @media(max-width:989px) and (min-width:750px) {
