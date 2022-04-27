@@ -306,6 +306,13 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
 .section-template--15516270723221__16492420467723fbeb-padding h2 {
   line-height: 30px;
 }
+ .slider-buttons {
+    position: absolute;
+    bottom: 0;
+    width: 88px;
+    left: 50%;
+    margin-left: -44px;
+}
 }
 
 @media(max-width:749px ){
