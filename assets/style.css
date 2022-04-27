@@ -537,7 +537,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
   ul#Slider-template--15516910485653__1649227455ff13b57f .multicolumn-card__info {
-    bottom: 10px;
+    bottom: 5px;
 }
  ul#Slider-template--15516910485653__1649232860c12dd62e .multicolumn-card.content-container:first-child {
     margin-bottom: 15px;
