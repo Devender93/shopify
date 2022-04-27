@@ -546,8 +546,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     margin-bottom: 15px;
 }
  .section-template--15516910485653__1649232860c12dd62e-padding {
-    padding-bottom: 35px;
+    padding-bottom: 35px !important;
 }
+ 
 }
 
 @media(max-width:1220px) and (min-width:990px) {
