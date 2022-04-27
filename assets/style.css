@@ -569,6 +569,10 @@ article {
   .drop_a_line {
     padding: 50px 0 0;
 }
+  .contact {
+    margin: 45px 15px 55px!important;
+    padding: 25px !important;
+}
 }
 
   
