@@ -1,53 +1,46 @@
-{{ 'homepage-2.css' | asset_url | stylesheet_tag }}
-<div class="color-{{ section.settings.color_scheme }} gradient">
-  <div class="textOnimg page-width page-width--narrow section-{{ section.id }}-padding">
-<div class="after_banner">
+{% if section.settings.show_css_grid_section == true %}
+<hr>
 
-  {%- for block in section.blocks -%}
-    
-    <div class="after_left">
-    <img src="{{ block.settings.bgImage | image_url }}">
-    <p>{{ block.settings.upText }} </p>
-    </div>
-  {%- endfor -%}
+<div class="grid-wrapper">
+  <div class="grid-number">
+    1
+  </div>
+  <div class="grid-number">
+    2
+  </div>
+  <div class="grid-number">
+    3
+  </div>
+  <div class="grid-number">
+    4
+  </div>
+</div>
 
-</div>
-</div>
-</div>
+{% endif %}
 
 {% schema %}
-{
-  "blocks": [
-{
-    "name": "Text on image",
-    "type": "imageText",
-    "limit": 3,
+  {
+    "name": "CSS-Grid",
     "settings": [
-      
-     
-          {
-        "id": "bgImage",
-        "type": "image_picker",
-        "label": "Background Image"
-        },
-        {
-        "id": "upText",
-        "type": "textarea",
-        "label": "Text for image",
-         "default": "LOREM IPSUM"
-        }
-    
-     
-    ]
-  }
-]
-}
 
+    {
+      "type": "checkbox",
+      "id": "show_css_grid_section",
+      "label": "Show CSS Grid",
+      "default": false
+    }
+],
+	"presets": [
+    {
+       "name": "CSS Grid Test",
+       "category": "CSS Grid Test"
+    }
+]
+  }
 {% endschema %}
 
-{%- style -%}
-
-{%- endstyle -%}
+{% stylesheet %}
+{% endstylesheet %}
 
 {% javascript %}
 {% endjavascript %}
