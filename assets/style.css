@@ -598,8 +598,9 @@ ul#Slider-template--15516910485653__1649232860c12dd62e li {
     width: calc(100% + 0rem)!important;
     margin-left: 0 !important;
 }
- .slider.slider--tablet {
-    scroll-padding-left: 0 !important;
+.slider.slider--tablet {
+    scroll-padding-left: 0!important;
+    scroll-padding-right: 0 !important;
 }
 }
 
