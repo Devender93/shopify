@@ -672,5 +672,8 @@ ul#Slider-template--15516910485653__1649227455ff13b57f li {
     margin: auto;
     max-width: 32.25%;
 }
+    article {
+    margin: 0 125px !important;
+}
   }
   /*responsive css ends*/
