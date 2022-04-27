@@ -650,6 +650,22 @@ article {
     padding-top: 25px;
     padding-bottom: 0;
 }
+  article {
+    padding: 55px 0!important;
+}
+  article p {
+    margin: 0;
+}
+  .article-template__social-sharing {
+    margin-top: 1rem!important;
+}
+
+.article-template__back.element-margin-top.center {
+    margin: 35px 0 30px;
+}
+  .page-width-desktop.isolate.section-template--15516270526613__16494040507ccb74d1-padding {
+    padding: 10px 15px 25px;
+}
 }
 
   
