@@ -171,6 +171,16 @@ content: "";
   .main-blog {
     padding-top: 0px;
 }
+ ul#Slider-template--15516270952597__1649245602b5aed179 li {
+    margin: auto;
+    max-width: 30%;
+}
+  .card__information {
+    padding: 15px 0 15px !important;
+}
+  .card__content {
+    padding: 0px;
+}
 /*blog posts css ends*/
 
 /*about css starts*/
