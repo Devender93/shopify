@@ -312,6 +312,7 @@ ul#Slider-template--15516910485653__1649232860c12dd62e a.link.animate-arrow {
     width: 88px;
     left: 50%;
     margin-left: -44px;
+   z-index : 2;
 }
 }
 
