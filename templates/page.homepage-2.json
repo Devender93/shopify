@@ -50,8 +50,35 @@
     },
     "textonimage": {
       "type": "imagewithtext",
+      "blocks": {
+        "52da78a4-252a-4efa-891f-2f2991781989": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-24.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        },
+        "7665150c-b8e1-42a8-b6e6-2f2ec9b6fe30": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-26.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        },
+        "5a477fe2-806a-486e-86cb-e86baa6b3fc9": {
+          "type": "imageText",
+          "settings": {
+            "bgImage": "shopify:\/\/shop_images\/img-27.jpg",
+            "upText": "LOREM IPSUM"
+          }
+        }
+      },
+      "block_order": [
+        "52da78a4-252a-4efa-891f-2f2991781989",
+        "7665150c-b8e1-42a8-b6e6-2f2ec9b6fe30",
+        "5a477fe2-806a-486e-86cb-e86baa6b3fc9"
+      ],
       "settings": {
-        "show_css_grid_section": true
       }
     },
     "16493958262b81b0b9": {
